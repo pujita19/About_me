@@ -7,7 +7,7 @@
 	margin : 20px;
 }
 .Home{
-	padding-top: 100px;
+	padding-top: 500px;
 	color: black;
 	font-style: courier;
 	font-size: 300%;
@@ -37,4 +37,5 @@ p{
 .photo{
 	float: right;
 	padding-right: 20px;
+	margin : 20px;
 }
